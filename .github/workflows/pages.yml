@@ -1,0 +1,91 @@
+name: Validate and deploy Vista to GitHub Pages
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - name: Install locked dependencies
+        run: npm ci
+      - name: Audit dependencies
+        run: npm audit --audit-level=moderate --json > docs/npm-audit.json
+      - name: Check source formatting
+        run: npm run format:check
+      - name: Unit tests
+        run: npm run test:report
+      - name: Build static site and check size budgets
+        run: npm run build
+      - name: Install browsers
+        run: npx playwright install --with-deps chromium firefox
+      - name: Browser integration tests
+        run: npm run test:e2e
+      - name: Performance budgets on the production build
+        shell: bash
+        run: |
+          npm run preview > /tmp/vista-preview.log 2>&1 &
+          SERVER_PID=$!
+          trap 'kill "$SERVER_PID" 2>/dev/null || true' EXIT
+          node scripts/wait-url.mjs
+          npm run test:performance
+      - name: Consolidate validation and fingerprint
+        run: node scripts/quality.mjs
+      - name: Upload quality reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: vista-quality-reports
+          path: |
+            docs/*results*
+            docs/bundle-budget.json
+            docs/npm-audit.json
+            docs/QA.md
+            docs/lighthouse-*
+            docs/PERFORMANCE.md
+            playwright-report/
+            test-results/
+          if-no-files-found: ignore
+          retention-days: 14
+      - name: Configure Pages
+        if: github.event_name != 'pull_request'
+        uses: actions/configure-pages@v5
+      - name: Upload static Pages artifact
+        if: github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    if: github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

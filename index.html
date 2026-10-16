@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#102a32" />
+    <meta
+      name="description"
+      content="Vuelve a Windows Vista: un escritorio Aero interactivo, con aplicaciones, ventanas y gadgets. Recreación independiente que funciona en tu navegador."
+    />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self' ws: wss:; media-src 'self' blob:; frame-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'none'"
+    />
+    <title>Windows Vista · Escritorio Aero</title>
+    <link rel="icon" type="image/svg+xml" href="./assets/orb.svg" />
+    <link
+      rel="preload"
+      href="./assets/fonts/selawik-latin.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <link rel="preload" href="./assets/wallpapers/aurora.webp" as="image" fetchpriority="high" />
+  </head>
+  <body>
+    <main id="desktop" aria-label="Escritorio de Windows Vista" tabindex="-1">
+      <img
+        id="wallpaper"
+        class="wallpaper"
+        src="./assets/wallpapers/aurora.webp"
+        alt=""
+        fetchpriority="high"
+      />
+      <div
+        id="desktop-icons"
+        class="desktop-icons"
+        role="group"
+        aria-label="Iconos del escritorio"
+      ></div>
+      <aside id="sidebar" class="sidebar" aria-label="Windows Sidebar"></aside>
+      <section id="window-layer" aria-label="Ventanas abiertas"></section>
+      <div id="selection-box" class="selection-box" hidden></div>
+    </main>
+    <footer id="taskbar" class="taskbar" aria-label="Barra de tareas">
+      <button
+        id="start-button"
+        class="start-button"
+        aria-label="Iniciar"
+        title="Iniciar (Ctrl+Esc)"
+        aria-haspopup="menu"
+        aria-expanded="false"
+      >
+        <img src="./assets/orb.svg" alt="" width="42" height="42" />
+      </button>
+      <div id="quick-launch" class="quick-launch" aria-label="Inicio rápido"></div>
+      <div id="tasks" class="tasks" aria-label="Aplicaciones abiertas"></div>
+      <div id="system-tray" class="system-tray" aria-label="Área de notificación"></div>
+    </footer>
+    <section id="start-menu" class="start-menu glass" aria-label="Menú Inicio" hidden></section>
+    <div id="overlays"></div>
+    <div id="session-screen" class="session-screen" hidden></div>
+    <div id="announcer" class="sr-only" aria-live="polite" aria-atomic="true"></div>
+    <noscript
+      ><div class="noscript-message">
+        Este escritorio necesita JavaScript. Actívalo para usar las aplicaciones de Windows Vista.
+      </div></noscript
+    >
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

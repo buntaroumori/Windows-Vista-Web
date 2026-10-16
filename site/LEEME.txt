@@ -1,0 +1,20 @@
+WINDOWS VISTA · AERO DESKTOP
+
+Esta carpeta contiene la web ya compilada. Copie TODO su contenido, incluido
+.nojekyll, a la raíz de un alojamiento estático. No requiere Node ni backend.
+
+Para probarla localmente:
+  python3 -m http.server 8080
+Abra http://localhost:8080. No use file://: los módulos necesitan HTTP.
+
+Para el código completo, las pruebas y GitHub Actions, use el ZIP de fuentes
+Windows-Vista-Aero.zip y consulte su README.md.
+
+Recreación web independiente. No ejecuta Windows ni programas .exe.
+Los documentos se guardan únicamente en el navegador; descargue copias.
+Los sitios externos se abren en una pestaña real tras un clic explícito.
+
+El código original tiene licencia MIT. Los iconos, cursores, fondos y marcas
+mantienen los derechos de sus titulares; no se afirma autorización general
+de redistribución comercial. Lea LICENSE, THIRD_PARTY_NOTICES.md y
+assets/fonts/OFL.txt antes de publicar o reutilizar los recursos.

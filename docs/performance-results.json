@@ -1,0 +1,145 @@
+{
+  "measuredAt": "2026-10-16T17:04:07.350Z",
+  "url": "http://127.0.0.1:4173/",
+  "status": "PASS",
+  "environment": {
+    "os": "linux x64",
+    "node": "v22.22.0",
+    "cpu": "Intel(R) Xeon(R) Processor @ 2.60GHz",
+    "cpuCountReported": 2,
+    "note": "Shared Linux sandbox. Synthetic lab measurements, not field data or a guarantee for all clients."
+  },
+  "profiles": {
+    "desktop": "1440×900, simulated 40 ms RTT / 10 Mbit/s / CPU 1×",
+    "constrained": "390×844, simulated 150 ms RTT / 1.6 Mbit/s / CPU 4×"
+  },
+  "desktopRuns": [
+    {
+      "performance": 100,
+      "accessibility": 100,
+      "bestPractices": 100,
+      "seo": 100,
+      "fcpMs": 338.85,
+      "lcpMs": 455.85,
+      "tbtMs": 15.5,
+      "cls": 0,
+      "speedIndexMs": 368.25,
+      "totalTransferBytes": 318599,
+      "javascriptBootMs": 72.9,
+      "lighthouseVersion": "13.5.0"
+    },
+    {
+      "performance": 100,
+      "accessibility": 100,
+      "bestPractices": 100,
+      "seo": 100,
+      "fcpMs": 324.93,
+      "lcpMs": 525.9,
+      "tbtMs": 6,
+      "cls": 0,
+      "speedIndexMs": 339.48,
+      "totalTransferBytes": 318599,
+      "javascriptBootMs": 37.8,
+      "lighthouseVersion": "13.5.0"
+    },
+    {
+      "performance": 100,
+      "accessibility": 100,
+      "bestPractices": 100,
+      "seo": 100,
+      "fcpMs": 333.95,
+      "lcpMs": 447.95,
+      "tbtMs": 11.5,
+      "cls": 0,
+      "speedIndexMs": 357.62,
+      "totalTransferBytes": 318599,
+      "javascriptBootMs": 47.42,
+      "lighthouseVersion": "13.5.0"
+    }
+  ],
+  "desktopMedian": {
+    "performance": 100,
+    "accessibility": 100,
+    "bestPractices": 100,
+    "seo": 100,
+    "fcpMs": 333.95,
+    "lcpMs": 455.85,
+    "tbtMs": 11.5,
+    "cls": 0,
+    "speedIndexMs": 357.62,
+    "totalTransferBytes": 318599,
+    "javascriptBootMs": 47.42
+  },
+  "constrained": {
+    "performance": 98,
+    "accessibility": 96,
+    "bestPractices": 100,
+    "seo": 100,
+    "fcpMs": 1240.46,
+    "lcpMs": 1980.46,
+    "tbtMs": 122.5,
+    "cls": 0,
+    "speedIndexMs": 1240.46,
+    "totalTransferBytes": 318599,
+    "javascriptBootMs": 122.22,
+    "lighthouseVersion": "13.5.0"
+  },
+  "interaction": {
+    "dragFrames": 110,
+    "dragAverageFps": 59.46,
+    "dragP95FrameMs": 16.8,
+    "dragLongTasks": 0,
+    "dragLongestTaskMs": 0,
+    "appOpenMedianMs": 8.4,
+    "appOpenWorstMs": 16.4,
+    "stressWindowsOpenedAndClosed": 24,
+    "windowsAfterStress": 1,
+    "heapBeforeBytes": 2297300,
+    "heapAfterBytes": 2341796,
+    "retainedHeapDeltaBytes": 44496,
+    "consoleErrors": [],
+    "externalRequests": [],
+    "browser": "156.0.8078.4"
+  },
+  "budgets": {
+    "desktop": {
+      "minimumScore": 90,
+      "maximumLcpMs": 2000,
+      "maximumFcpMs": 1200,
+      "maximumTbtMs": 200,
+      "maximumCls": 0.02,
+      "maximumTransferBytes": 650000
+    },
+    "constrained": {
+      "minimumScore": 85,
+      "maximumLcpMs": 3500,
+      "maximumTbtMs": 350,
+      "maximumCls": 0.05
+    },
+    "interaction": {
+      "minimumAverageFps": 45,
+      "maximumP95FrameMs": 50,
+      "maximumOpenMs": 150,
+      "maximumRetainedHeapBytes": 12000000
+    }
+  },
+  "checks": {
+    "desktopScore": true,
+    "desktopLcp": true,
+    "desktopFcp": true,
+    "desktopTbt": true,
+    "desktopCls": true,
+    "desktopTransfer": true,
+    "constrainedScore": true,
+    "constrainedLcp": true,
+    "constrainedTbt": true,
+    "constrainedCls": true,
+    "dragFps": true,
+    "dragP95": true,
+    "applicationOpen": true,
+    "retainedHeap": true,
+    "lifecycle": true,
+    "cleanConsole": true,
+    "noExternalRequests": true
+  }
+}

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+	<testcase name="calculator: decimal arithmetic is rounded without binary artifacts" time="0.002398" classname="test"/>
+	<testcase name="calculator: chained operations follow the classic immediate model" time="0.000557" classname="test"/>
+	<testcase name="calculator: repeated equals repeats the last operation" time="0.000193" classname="test"/>
+	<testcase name="calculator: replacing an operator does not apply it twice" time="0.000294" classname="test"/>
+	<testcase name="calculator: addition percent is relative to accumulator" time="0.000343" classname="test"/>
+	<testcase name="calculator: multiplication percent uses a fraction" time="0.000165" classname="test"/>
+	<testcase name="calculator: division by zero reports and recovers" time="0.000312" classname="test"/>
+	<testcase name="calculator: CE preserves a pending operation" time="0.000137" classname="test"/>
+	<testcase name="calculator: memory store, add, recall, clear" time="0.000418" classname="test"/>
+	<testcase name="calculator: sqrt and inverse" time="0.000374" classname="test"/>
+	<testcase name="calculator: negative square root is an error" time="0.000237" classname="test"/>
+	<testcase name="calculator: scientific angles are in degrees" time="0.000112" classname="test"/>
+	<testcase name="calculator: exponentiation" time="0.000093" classname="test"/>
+	<testcase name="calculator: only one decimal separator and input length is bounded" time="0.000190" classname="test"/>
+	<testcase name="calculator: backspace never leaves a lone minus" time="0.000087" classname="test"/>
+	<testcase name="calculator: large non-finite results are contained" time="0.000100" classname="test"/>
+	<testcase name="filesystem: expected folders and seed documents exist" time="0.009640" classname="test"/>
+	<testcase name="filesystem: create, write and reconstruct from persisted state" time="0.003459" classname="test"/>
+	<testcase name="filesystem: duplicate names are case insensitive" time="0.000810" classname="test"/>
+	<testcase name="filesystem: search ignores accents and case" time="0.000371" classname="test"/>
+	<testcase name="filesystem: unique folder naming" time="0.000329" classname="test"/>
+	<testcase name="filesystem: rename and move to trash, restore" time="0.001095" classname="test"/>
+	<testcase name="filesystem: trash folder hides descendants without destroying them" time="0.001213" classname="test"/>
+	<testcase name="filesystem: emptying trash removes descendants permanently" time="0.000935" classname="test"/>
+	<testcase name="filesystem: restore resolves a name collision" time="0.000771" classname="test"/>
+	<testcase name="filesystem: system folders are protected" time="0.000251" classname="test"/>
+	<testcase name="filesystem: nonexistent destinations fail without mutating state" time="0.000153" classname="test"/>
+	<testcase name="filesystem: per-document limit is enforced" time="0.000228" classname="test"/>
+	<testcase name="filesystem: quota failures roll back the transaction" time="0.000393" classname="test"/>
+	<testcase name="filesystem: corrupted persisted data falls back safely" time="0.000140" classname="test"/>
+	<testcase name="filesystem: cyclic ancestor data terminates" time="0.000261" classname="test"/>
+	<testcase name="filename validation: rejects &amp;quot;../escape&amp;quot;" time="0.000107" classname="test"/>
+	<testcase name="filename validation: rejects &amp;quot;a\\b&amp;quot;" time="0.000073" classname="test"/>
+	<testcase name="filename validation: rejects &amp;quot;x:y&amp;quot;" time="0.000140" classname="test"/>
+	<testcase name="filename validation: rejects &amp;quot;bad?.txt&amp;quot;" time="0.000153" classname="test"/>
+	<testcase name="filename validation: rejects &amp;quot;NUL.txt&amp;quot;" time="0.000083" classname="test"/>
+	<testcase name="filename validation: rejects &amp;quot;COM1&amp;quot;" time="0.000071" classname="test"/>
+	<testcase name="filename validation: rejects &amp;quot;..&amp;quot;" time="0.000069" classname="test"/>
+	<testcase name="filename validation: rejects &amp;quot;trailing.&amp;quot;" time="0.000067" classname="test"/>
+	<testcase name="filename validation: retains Spanish, ampersands and apostrophes" time="0.000083" classname="test"/>
+	<testcase name="settings: sanitize corrupt values and gadget lists" time="0.000969" classname="test"/>
+	<testcase name="storage: blocked reads and writes are contained" time="0.000215" classname="test"/>
+	<testcase name="storage: malformed JSON returns fallback" time="0.000188" classname="test"/>
+	<testcase name="settings: subscriptions unsubscribe without leaks" time="0.000462" classname="test"/>
+	<testcase name="minesweeper: first click and its neighbors cannot contain a mine" time="0.000844" classname="test"/>
+	<testcase name="minesweeper: flagging does not initialize the game" time="0.000276" classname="test"/>
+	<testcase name="minesweeper: flood opening reveals blank neighbors" time="0.000560" classname="test"/>
+	<testcase name="minesweeper: revealing a mine ends the game" time="0.000698" classname="test"/>
+	<testcase name="minesweeper: all safe cells revealed is a win" time="0.000660" classname="test"/>
+	<testcase name="HTML escaping covers all attribute and text delimiters" time="0.000306" classname="test"/>
+	<testcase name="search normalization handles Spanish diacritics" time="0.000144" classname="test"/>
+	<testcase name="clamping tolerates a viewport smaller than the preferred minimum" time="0.000164" classname="test"/>
+	<testcase name="calculator: typing a new value resets repeat-equals state" time="0.000153" classname="test"/>
+	<testcase name="filesystem: accented and unaccented filenames can coexist" time="0.000864" classname="test"/>
+	<testcase name="filesystem: failed persistence does not leak a draft transaction into memory" time="0.000687" classname="test"/>
+	<!-- tests 55 -->
+	<!-- suites 0 -->
+	<!-- pass 55 -->
+	<!-- fail 0 -->
+	<!-- cancelled 0 -->
+	<!-- skipped 0 -->
+	<!-- todo 0 -->
+	<!-- duration_ms 185.846312 -->
+</testsuites>

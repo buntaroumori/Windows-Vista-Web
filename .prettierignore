@@ -1,0 +1,11 @@
+node_modules/
+dist/
+site/
+public/
+playwright-report/
+test-results/
+docs/lighthouse-*
+docs/*results*
+docs/bundle-budget.json
+docs/assets-manifest.json
+docs/FILES.txt

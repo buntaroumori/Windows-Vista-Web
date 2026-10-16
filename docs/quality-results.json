@@ -1,0 +1,57 @@
+{
+  "measuredAt": "2026-10-16T17:04:07.427Z",
+  "status": "PASS",
+  "checks": {
+    "unit": true,
+    "e2e": true,
+    "performance": true,
+    "bundle": true,
+    "audit": true
+  },
+  "buildSha256": "29d16fb8c72d6c1838df771a4ea62192842eaa98a31bd462d6b9f99768a45617",
+  "unit": {
+    "tests": 55,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0,
+    "cancelled": 0
+  },
+  "e2e": {
+    "startTime": "2026-10-16T17:01:27.215Z",
+    "duration": 114800.54599999999,
+    "expected": 66,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  },
+  "browserProjects": [
+    "chromium",
+    "firefox"
+  ],
+  "performanceChecks": 17,
+  "desktopPerformance": 100,
+  "constrainedPerformance": 98,
+  "vulnerabilities": {
+    "info": 0,
+    "low": 0,
+    "moderate": 0,
+    "high": 0,
+    "critical": 0,
+    "total": 0
+  },
+  "bundle": {
+    "measuredAt": "2026-10-16T17:01:25.712Z",
+    "javascriptGzipBytes": 50092,
+    "cssGzipBytes": 17924,
+    "totalStaticBytes": 2725412,
+    "files": 249
+  },
+  "toolchain": {
+    "node": "v22.22.0",
+    "@playwright/test": "1.64.1",
+    "chrome-launcher": "1.2.2",
+    "lighthouse": "13.5.0",
+    "prettier": "3.6.2",
+    "vite": "8.3.4"
+  }
+}

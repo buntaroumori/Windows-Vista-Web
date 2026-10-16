@@ -1,0 +1,1921 @@
+{
+  "generatedAt": "2026-10-16T17:05:36.993Z",
+  "note": "Provenance and integrity inventory, not a grant or verification of redistribution rights.",
+  "assets": [
+    {
+      "path": "assets/avatar.svg",
+      "bytes": 1136,
+      "sha256": "7b0dfd3ac605f9afe38b65fe1e1e77ed664fb7a642b780df6aeadbd39b42718c",
+      "upstream": "Original project source",
+      "rights": "MIT for original SVG source. No trademark rights granted."
+    },
+    {
+      "path": "assets/cursors/aero_arrow.cur",
+      "bytes": 4286,
+      "sha256": "8e4089397e0eb4115f0da06c85abb26d9e8e8e1e242f2d41d813dc70fd104f3d",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Cursors/Windows%20Vista/aero_arrow.cur",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established."
+    },
+    {
+      "path": "assets/cursors/aero_ew.cur",
+      "bytes": 4286,
+      "sha256": "093c36f1baa94b49498b173a197a99c72835381aa0b1823ae669eb19adfcc430",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Cursors/Windows%20Vista/aero_ew.cur",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established."
+    },
+    {
+      "path": "assets/cursors/aero_link.cur",
+      "bytes": 4286,
+      "sha256": "eeb61c78c583b09597a14de97c77c90bbecb3d9af9ed0b630f84a0bd35f2e56c",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Cursors/Windows%20Vista/aero_link.cur",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established."
+    },
+    {
+      "path": "assets/cursors/aero_nesw.cur",
+      "bytes": 4286,
+      "sha256": "de8ca70a6bd0e8738200cfe5a9d2e50514c8274e39e9939493726cc307ea7df4",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Cursors/Windows%20Vista/aero_nesw.cur",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established."
+    },
+    {
+      "path": "assets/cursors/aero_ns.cur",
+      "bytes": 4286,
+      "sha256": "ae87e1be2012a8d22db328bec839cc01705776df4a8668a373d2d7efd918cc09",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Cursors/Windows%20Vista/aero_ns.cur",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established."
+    },
+    {
+      "path": "assets/cursors/aero_nwse.cur",
+      "bytes": 4286,
+      "sha256": "26ba676103297f4fe9dba4d49238be80b1a7dbb1e869ec1a0986c6e7afdfd07b",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Cursors/Windows%20Vista/aero_nwse.cur",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established."
+    },
+    {
+      "path": "assets/flag.svg",
+      "bytes": 1119,
+      "sha256": "f608da7403311da840e3bd012d29fda0a7177093a4eed45101bc176121de8bec",
+      "upstream": "Original project source",
+      "rights": "MIT for original SVG source. No trademark rights granted."
+    },
+    {
+      "path": "assets/fonts/OFL.txt",
+      "bytes": 4509,
+      "sha256": "77b7c2506d4efb22e09c8ccf10159f4956eab3ef7c007fef95de136bcf45300c",
+      "upstream": "https://github.com/microsoft/Selawik/releases/tag/1.01",
+      "rights": "SIL Open Font License 1.1. See assets/fonts/OFL.txt."
+    },
+    {
+      "path": "assets/fonts/selawik-bold.woff2",
+      "bytes": 14424,
+      "sha256": "e8e9896309b2b003e2eefca4c51f82d2d3fb693a440cb969dd0650f0d5070012",
+      "upstream": "https://github.com/microsoft/Selawik/releases/tag/1.01",
+      "rights": "SIL Open Font License 1.1. See assets/fonts/OFL.txt."
+    },
+    {
+      "path": "assets/fonts/selawik-latin.woff2",
+      "bytes": 14632,
+      "sha256": "0f11afe1e85c8fd5d35d33e0142bd140e460a48cf3b42317d0c34e40c2b7118b",
+      "upstream": "https://github.com/microsoft/Selawik/releases/tag/1.01",
+      "rights": "SIL Open Font License 1.1. See assets/fonts/OFL.txt."
+    },
+    {
+      "path": "assets/icons/calculator.svg",
+      "bytes": 1340,
+      "sha256": "86f0dd0aa110f34b200921ca355cd0c53f2b17b4c88be0e800890f25a09d4e30",
+      "upstream": "Original project source",
+      "rights": "MIT for original SVG source. No trademark rights granted."
+    },
+    {
+      "path": "assets/icons/calendar-128.png",
+      "bytes": 12581,
+      "sha256": "29b087d1de297a69aa0e115304dfb467228473bb8a1b27339e9ab6c60f825fb7",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON326_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/calendar-16.png",
+      "bytes": 504,
+      "sha256": "9a75fa78028dc597de7a59844c2efbdc31ea0193c3807f62e0417c9c5f46fae6",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON326_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/calendar-24.png",
+      "bytes": 1298,
+      "sha256": "e6473853203232db9b0ac59c71d7bcd0840ec629bf40df9fce95214418a3f54e",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON326_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/calendar-32.png",
+      "bytes": 1240,
+      "sha256": "ed67497ad2a18fbf63575c486e64b2df493c8e0d0323f6c3b21e8a85bb9dfc16",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON326_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/calendar-48.png",
+      "bytes": 1673,
+      "sha256": "200b4621e36ca2136625061c28232ff1ef062f826a6b959b614a4a5427613088",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON326_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/calendar.png",
+      "bytes": 4258,
+      "sha256": "e8860723b778ce2af75507dffefd02bd549f6c60c863303d9b348a53d9cf8fa6",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON326_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/colors-128.png",
+      "bytes": 21177,
+      "sha256": "dc11b67a5146ee8e8efd4650dfee8e9ca89436fb053fbb417b933450160c6e63",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON197_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/colors-16.png",
+      "bytes": 744,
+      "sha256": "837a7b1e239616c3e2672cf1a4f4bf788e557d3fc882f78fa4f40146bfbe0fd4",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON197_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/colors-24.png",
+      "bytes": 1508,
+      "sha256": "9548a4a084eb958e2968c8b620c886a88e7c05174ba0bfa793ee0b599e24137c",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON197_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/colors-32.png",
+      "bytes": 2028,
+      "sha256": "e44317f704b8c16fe8980fca5b79e99aeabd092c2cc66729aec98e4e06bde3e4",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON197_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/colors-48.png",
+      "bytes": 3661,
+      "sha256": "32f5ce7a25210a53f2f85679e6f9be53bf0039dc8e9d49fd975181bcb0c81a09",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON197_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/colors.png",
+      "bytes": 6899,
+      "sha256": "f2c51a9ddc4e9e33dc5362df3d495f224c112761868cda57f12e5a058a475d37",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON197_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/computer-128.png",
+      "bytes": 22220,
+      "sha256": "916390840534c9070913016ded57ebebc68d75a7bdb8f5e9619b3bc70c3ed812",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON109_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/computer-16.png",
+      "bytes": 620,
+      "sha256": "0ac75634d63531a8a0ed0cbff215bbe36127d67b8c470f98e2e88e9a85e55f89",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON109_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/computer-24.png",
+      "bytes": 1242,
+      "sha256": "4e0e526061d95ae46abdc7320cae01c354c1a8d9d9b1079e200d9cc7176ed0f9",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON109_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/computer-32.png",
+      "bytes": 2295,
+      "sha256": "3abbbac92ea330fe13f992c6213b5533f11f98c31f679c3875f22d00df85a731",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON109_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/computer-48.png",
+      "bytes": 4114,
+      "sha256": "505de0362040f496eb13f26cb4104964b3ab4d15da2134ae92e5293862b3c2bd",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON109_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/computer.png",
+      "bytes": 6370,
+      "sha256": "3d5b7f0b8ddf61d398cc03de1d057ee0f404beeec1c9261fe695dd992a47efdc",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON109_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/control-128.png",
+      "bytes": 25508,
+      "sha256": "bebe9fa31b37a8b0e48849e0da28d542bc63a8dfcba19893288f5656f4f5a8a8",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON137_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/control-16.png",
+      "bytes": 704,
+      "sha256": "5242d7cd9dd19092d90a1c543f1cda60078ef67ba1da2caf23b0e8d84c8dd97c",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON137_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/control-24.png",
+      "bytes": 1833,
+      "sha256": "919116c403ec22bcd19ca1e538c89336b81a810f57287ee193568ad30a6807c8",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON137_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/control-32.png",
+      "bytes": 2557,
+      "sha256": "b49c567efeaff9285da43799c43a88c9dac00154901bb96dee36bedc91cfcc7c",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON137_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/control-48.png",
+      "bytes": 4928,
+      "sha256": "b411d5045c13e1a5ee613c4be546392b181ad005d4bc1ea06cfbc2b367520290",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON137_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/control.png",
+      "bytes": 7307,
+      "sha256": "9fde8fb4a87d8850277d7b28efbd52e544fa046d7886c100e26e9fe402564318",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON137_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/desktop-128.png",
+      "bytes": 11680,
+      "sha256": "7f9f3ef98484a004b0a49d62c83f0a5de8374a93b1e933c6f04eb40b84f2ce4f",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON110_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/desktop-16.png",
+      "bytes": 529,
+      "sha256": "306cee3d4e6864f0e4a6fbcd50ee25c9e4d443dbb568366203a7d506800ee098",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON110_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/desktop-24.png",
+      "bytes": 1084,
+      "sha256": "f86dc86ac9c00cea13a447b9be9417c4c16f4cdcaad739d0f9bce95467d9180a",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON110_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/desktop-32.png",
+      "bytes": 1254,
+      "sha256": "743137f316e12b24447fd323fa784253be7e663ad65637f62047dc017e564eac",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON110_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/desktop-48.png",
+      "bytes": 2124,
+      "sha256": "0cb448b159ba6825c039778946180cb08297402e85f70394daa45540134fc61e",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON110_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/desktop.png",
+      "bytes": 4396,
+      "sha256": "1e5f6dc640a8bdb8cf10b6484994d57f8c32a0d45ed6c40ed78400c8923c5922",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON110_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/documents-128.png",
+      "bytes": 20767,
+      "sha256": "61bc8e0f4acd00778ae76f7294783c1b10bf2f0351a8c96c32c468453e0446d6",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON112_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/documents-16.png",
+      "bytes": 586,
+      "sha256": "924d6938f6fdbaa128df4e7e362bd2e7bf2c58fce7c3852a9bcb41f57cce2ef8",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON112_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/documents-24.png",
+      "bytes": 1636,
+      "sha256": "20a0a8aca296f4be3c46b0cd6aa5a0ee3aa4e04ef443db376804280534a18604",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON112_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/documents-32.png",
+      "bytes": 2325,
+      "sha256": "cf0cc53bcb987cf0c9d459aaa6bab7c48cdf81dce1e75bcb3d1db70541a5135b",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON112_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/documents-48.png",
+      "bytes": 4367,
+      "sha256": "cc671153f5d85ddc3a303328d332f5fd7c630c1d00bf9b2c364aaca6b3a6fa92",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON112_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/documents.png",
+      "bytes": 6036,
+      "sha256": "79ae28b7e29dfd40e42e2335195bc0938112d2264f4661363a9d2bd39027a144",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON112_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/downloads-128.png",
+      "bytes": 17486,
+      "sha256": "9e347a9c2783e8fd81e5e864f4f67795c4f7e61c9743c4b18146bdb37fb9a54f",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON184_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/downloads-16.png",
+      "bytes": 492,
+      "sha256": "3c3712b7d024ef3a8a0f056c43879fa59a77d96d6d74ebd11983afe681f15c81",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON184_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/downloads-24.png",
+      "bytes": 1511,
+      "sha256": "de71522b4aeea625de2fa360b480b4f23e4a9a07c6f985a904ca3838334e2756",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON184_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/downloads-32.png",
+      "bytes": 2030,
+      "sha256": "96d4d0558f4023c8e2780706ba6f6e756e2d4725ffa736d41bdb08ed674f4834",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON184_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/downloads-48.png",
+      "bytes": 3273,
+      "sha256": "5ece7cdf1724fc1c8899c8ad978e8415f698d11ddcf41bc63fdcadde14b4cf7e",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON184_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/downloads.png",
+      "bytes": 6283,
+      "sha256": "9d1dd9864725d2a37ac768d539d6415832b0f426f9a4ef500b05864ef67f1907",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON184_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/drive-128.png",
+      "bytes": 16771,
+      "sha256": "2479a3f0c7d0c498b222be0b0f36fb79abf94bb030fb913daf5679cbdb66f637",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON36_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/drive-16.png",
+      "bytes": 772,
+      "sha256": "a529d143b3e3a0571f4e2ab0a2f7af7525caa6311f0a089444382ad6afcb2257",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON36_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/drive-24.png",
+      "bytes": 1356,
+      "sha256": "7a74e78841c37a8f41def92e0e7ed401c3ae1e4b957398c048063b9ba9d35a39",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON36_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/drive-32.png",
+      "bytes": 1878,
+      "sha256": "2447509c1ceef9750d95bf0f7a19c1f9a3d57ebc39d2e613111c73a78376f193",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON36_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/drive-48.png",
+      "bytes": 2979,
+      "sha256": "fa2c7a6b2ea70de590b823e259f296a96b9b7c3d5d28be5b64f5d96c78f6babd",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON36_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/drive.png",
+      "bytes": 5607,
+      "sha256": "4e3379b150a723b1c13c63d60205d7689333eb7f4f1f72b1e2f5a9ba13eb78c0",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON36_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/dvd-128.png",
+      "bytes": 22435,
+      "sha256": "8ca9bcc33e6ef313ae7b1d6e261723a6e6585e905c71d52fbb2dabcb2e77eb8a",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON30_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/dvd-16.png",
+      "bytes": 687,
+      "sha256": "4f2b6f64a805d179273d063db7d4aabc637dd1c7a228df25c17393b7c1e1ec5c",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON30_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/dvd-24.png",
+      "bytes": 1621,
+      "sha256": "f393df8251eea914886f4cab8c8e1d015270c005113cf22216bbd1fb8144f83b",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON30_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/dvd-32.png",
+      "bytes": 2218,
+      "sha256": "a268d264bc8f1fe6170697d122331b3186c55ca5c658605d2e93367d58001bfd",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON30_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/dvd-48.png",
+      "bytes": 4137,
+      "sha256": "90b32b7244e0670632ec9613246da34743f683d45d1f36be89b0676e165176b1",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON30_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/dvd.png",
+      "bytes": 7605,
+      "sha256": "7e4b4ec285c628ddd2fbf3b2eee8d22725b25cfea31043fe45aa9f03f20f6d80",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON30_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/favorites-128.png",
+      "bytes": 18653,
+      "sha256": "71d9953cfb6a8a1c49e72e2de5651cef02185043b4439ee61a64d843fde88159",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON115_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/favorites-16.png",
+      "bytes": 735,
+      "sha256": "1affa3ee4fa410d340749f9183c5ad4568ac8843b3988ddedb9a7980e57d1f33",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON115_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/favorites-24.png",
+      "bytes": 1645,
+      "sha256": "d4ef0e87c94586e3e865d88fce7df6d5a3ce6f8f1aec43f496253bbec7504b34",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON115_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/favorites-32.png",
+      "bytes": 2406,
+      "sha256": "5d4c62e1a99f14e8ee7cc3622c49cbc54f4e75c91db5fa34cee90849b4d5ab7b",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON115_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/favorites-48.png",
+      "bytes": 3988,
+      "sha256": "f75ac30c99b6579d1fef10615f8582b7aaf6c9020da2c20c89865acbaeeeb387",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON115_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/favorites.png",
+      "bytes": 5148,
+      "sha256": "815d1087c7a4c01c77034a7db2f1dcf61b3cdc41fafd6f67f063098afdb1197e",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON115_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/folder-128.png",
+      "bytes": 12889,
+      "sha256": "2cf4aeecc8b0debf9d4850675099bc879ee3cf7704094ac65b5b36a7946c6d15",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON4_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/folder-16.png",
+      "bytes": 557,
+      "sha256": "99658d5e6514d0b5fbaed9b71089d9ca388ae806857f0fd69ac17e7bfb73a153",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON4_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/folder-24.png",
+      "bytes": 1252,
+      "sha256": "ed0e6552ceebf1b0ad4fdbad8f6dd64a1cd1ca190646afb269d55fb55e5f9a98",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON4_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/folder-32.png",
+      "bytes": 1570,
+      "sha256": "c7fab75b9f51eadbc6cab7abe2d09d73faa6086b640dc4f93ed36311498a946e",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON4_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/folder-48.png",
+      "bytes": 2422,
+      "sha256": "4ba1dd1e7ee3f475fd84d3de7ad88ab8420b8b0a6272ff6b2775003c41734516",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON4_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/folder.png",
+      "bytes": 4774,
+      "sha256": "2a9946af3fac8e19ebc1d28678b5b2020de350a4de2eea99902feb4604433388",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON4_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/games-128.png",
+      "bytes": 18641,
+      "sha256": "c63f93207a7d03de1efc892f7a273c31475b86c53dd942581e9decad458c2438",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON14_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/games-16.png",
+      "bytes": 586,
+      "sha256": "b3f7c9b86f2688b19118da42e2790be3d468c744f074f100143313ada784a52b",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON14_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/games-24.png",
+      "bytes": 1060,
+      "sha256": "97f00586c002654f22728800b45f521de63c1f5b4b57f6e4b5491dea60a74497",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON14_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/games-32.png",
+      "bytes": 1721,
+      "sha256": "906371e4c8bd1b81ce08653ae30cdbb5295fe88cb8ad48bf060db6485accff9e",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON14_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/games-48.png",
+      "bytes": 3472,
+      "sha256": "073d7e381e2aedf41b785d69a68e5225a657536659a60ce8763405b103876720",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON14_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/games.png",
+      "bytes": 5327,
+      "sha256": "8840d6e0b225a8fdf0705cf6217e22705013f0ea91ec23c670d0519b9df31d4e",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON14_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/help-128.png",
+      "bytes": 21734,
+      "sha256": "7aff3bf16959eda2ce9369f8ac19ffce65b0d8b2c7152331e37f344cc5ba7310",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON99_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/help-16.png",
+      "bytes": 790,
+      "sha256": "b0dec020af615b395de69613307bd03986356bfff742295075ad599943f22e2f",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON99_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/help-24.png",
+      "bytes": 1836,
+      "sha256": "e7cd9afe9e458280cf4b930572d27fb6bdf693ab5f9bebf577c5c0572822c19c",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON99_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/help-32.png",
+      "bytes": 2521,
+      "sha256": "138abaf851373aab7a45fa96595abf9e25a0e4b7e38eb17b3b6326f789df4dc4",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON99_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/help-48.png",
+      "bytes": 4907,
+      "sha256": "257e7e9cc23aee6ef8bec724636b75b4acf6668ff36bbeecfad5649483081e45",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON99_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/help.png",
+      "bytes": 6476,
+      "sha256": "a8ab618247c12de20d55b4f345f417ff1f7fda2fff333beabdaaa46d51f5bc15",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON99_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/image-128.png",
+      "bytes": 11702,
+      "sha256": "01e2a5d359d66d703dfb86cd3790793d9c977ed7d17d07c88065b20977ae8a38",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON21_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/image-16.png",
+      "bytes": 406,
+      "sha256": "efafce3572c86f9a9ab5b4dbd27766288c4099e75f2888002aff7104154b381e",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON21_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/image-24.png",
+      "bytes": 1054,
+      "sha256": "e2acf80a282b06c0390c511249a9205da08c351d11899aaa3fea44f924228041",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON21_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/image-32.png",
+      "bytes": 1174,
+      "sha256": "b8370d8d18b8536adb40ee9ca9230422de3bac8ccf2f33d912714f61dc4c570c",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON21_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/image-48.png",
+      "bytes": 2036,
+      "sha256": "0342c2a9699c268955de611e44c2f5b0daa490cbd79bce11820d08f7f2fcd948",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON21_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/image.png",
+      "bytes": 4215,
+      "sha256": "90170b2aff5623b228e1a5607e81ec3b721ee3fb2e32ebeab2d04fbf896a4bd6",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON21_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/info-128.png",
+      "bytes": 24186,
+      "sha256": "27b0b2598ca6724bffe70c607a38c3f8cd633a8d8c69521ea32fa424b7387c8d",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON16783_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/info-16.png",
+      "bytes": 727,
+      "sha256": "5ccfe2d51e28d44713ded7728148036169bee33308c3df503b4369b1071eb077",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON16783_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/info-24.png",
+      "bytes": 1720,
+      "sha256": "e7b6aad59ae199b42cbb41819ca1f982e105cce674bc4ffe60f8f74f7a54c600",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON16783_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/info-32.png",
+      "bytes": 2344,
+      "sha256": "3573a588ac6869c8c953a9f3f5da0242dee2be8f1f6445ef29926aa9a987b716",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON16783_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/info-48.png",
+      "bytes": 4600,
+      "sha256": "40f4cf536c2e2cfdcbbe1f7c9a9a68b33b81fb3a9a5eff618f6708e033ec4aa1",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON16783_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/info.png",
+      "bytes": 8233,
+      "sha256": "4d42cb255e3ec232e1989fff760a6893fd2af63227f41192a53527ea9b8e59c3",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON16783_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/internet-128.png",
+      "bytes": 27625,
+      "sha256": "ddf9613a45b77ad196449fb686eb710583a0a2bde8b09b730d4179d8fd003add",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON512_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/internet-16.png",
+      "bytes": 894,
+      "sha256": "da829510bd76e7d6bb91233a40565f2d2cde0b5e503208e3e6d503b3e5b1c930",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON512_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/internet-24.png",
+      "bytes": 1796,
+      "sha256": "b4544578782f9a1f7ec411033d2e96c6fd249af33fdf4a3213164c8c20f9213b",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON512_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/internet-32.png",
+      "bytes": 2512,
+      "sha256": "bd52be9d01ffa820d62233390e02e7135a582ead4f6032737cbdb004e56b1623",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON512_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/internet-48.png",
+      "bytes": 4695,
+      "sha256": "249a914a8126c1a5e81096bbf9fb00f214ff4e697d6f95e9d93e8d9e46cd484a",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON512_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/internet.png",
+      "bytes": 8934,
+      "sha256": "cf67d4e64cf9d80a3bdaac40833f47899b444a18cd56e1fbe8e31a769cf88498",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON512_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/mail-128.png",
+      "bytes": 19683,
+      "sha256": "a5d28c6243e8cd15c9cd68b51ca952f9d88bf7294e3c042b095c3e14c189906f",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON20_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/mail-16.png",
+      "bytes": 784,
+      "sha256": "1fba2b78548f184552016e980316d62c2f99e6a0dde970c6e0ae52b907a975c0",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON20_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/mail-24.png",
+      "bytes": 1724,
+      "sha256": "4df1f7fb1b64445e7d622acbbfadbc4e2084b8d2115ecd9da97c03f45aa6b0c7",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON20_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/mail-32.png",
+      "bytes": 2280,
+      "sha256": "028b6ae95433d6faea0b52e88137f3b9432ad5570ca72833216c993e108cf204",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON20_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/mail-48.png",
+      "bytes": 3603,
+      "sha256": "d9338ec9cf81fbac1684161883fa781012e7d2ef7c06aa5dd797704e947184b4",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON20_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/mail.png",
+      "bytes": 7101,
+      "sha256": "a2006a33425a456d6a9d6d5df4e839a7abfd8c427074d4f8842eb0a7e65382c0",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON20_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/media-128.png",
+      "bytes": 26210,
+      "sha256": "7d6ecaf1bb9272897e36c16b44a8849b76b2f4538edfac74b89ef216c157d273",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON137_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/media-16.png",
+      "bytes": 927,
+      "sha256": "ff2a983a094f5f911064ecf13a4c327cdfaa05d810420a375b1ce0ffeb08648a",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON137_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/media-24.png",
+      "bytes": 1850,
+      "sha256": "ed935035241790f2986cb28e4c6f0d0f9aaff3e218b2254acdc66a37ac986d19",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON137_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/media-32.png",
+      "bytes": 2483,
+      "sha256": "36bb65a1cd898e6b28ec9498952840cf82a03e20183f048e371e700297d30228",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON137_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/media-48.png",
+      "bytes": 4795,
+      "sha256": "4575ce75bffd8d861daf3d6e2ecab1f1d3bfc56ffa4b073615d59caa10297e36",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON137_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/media.png",
+      "bytes": 8714,
+      "sha256": "4cfd4c6916fd9c9b66d064034be461724432182984643faad9cdeb03c265a9f1",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON137_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/music-128.png",
+      "bytes": 23078,
+      "sha256": "af699443d5e1faa367d124be576548db779aa59b1cfacee4c24846cca2d1ded4",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON108_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/music-16.png",
+      "bytes": 750,
+      "sha256": "1ef258dce0cc7a61229d011ca3e040e86862f9eea371bdf6b51a8fbfdd65eec2",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON108_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/music-24.png",
+      "bytes": 1817,
+      "sha256": "9523a75ce9dadc45153025660891a63ecd3eca3f8a5ccec2cc6183bea28cce70",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON108_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/music-32.png",
+      "bytes": 2538,
+      "sha256": "9547a5034c8690799802309dfceae49d006d7f83b9a3095056ed766656292b23",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON108_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/music-48.png",
+      "bytes": 4683,
+      "sha256": "6af14adc5fde7146daa67029d720ea5dafe7699b908d7211992ac71fe4d89613",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON108_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/music.png",
+      "bytes": 6414,
+      "sha256": "ef12d139fd4dcea4c1bd666ecd3f1c6297fbdb5cabc1b72d163d6be569de472d",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON108_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/network-128.png",
+      "bytes": 26740,
+      "sha256": "f0f8535b2f36af6013e99c0f4c938681de9427c6d6d86a79e1e109771712a4db",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON25_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/network-16.png",
+      "bytes": 658,
+      "sha256": "d95f698f3b12afbb623ee3fc0d3c360c82e8898ba5c921503cd70c2b4cb115cd",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON25_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/network-24.png",
+      "bytes": 1855,
+      "sha256": "2664418d046b8f9e7f314340f7e4c1341fb750bec98e76c702f1457cad0bf6c0",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON25_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/network-32.png",
+      "bytes": 2648,
+      "sha256": "51971582b7be28ca7639aea0abb006eb94983670902af6f1d5d20a67c104b88a",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON25_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/network-48.png",
+      "bytes": 5041,
+      "sha256": "2c235226e457836fa10f41e300b7691cbe85147bcc043a4a7e5dd7b654270bba",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON25_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/network.png",
+      "bytes": 8904,
+      "sha256": "0edb7f6903a7ae35d8d0f014fc3768af0ac43621b0e99d5c67b2b4c147e50091",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON25_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/notepad-128.png",
+      "bytes": 21929,
+      "sha256": "66f9138b0a1afb3641a3450c3120cd6ddd5bc483687c2b25051e1a9926f1c5dd",
+      "upstream": "https://raw.githubusercontent.com/visnalize/resources/main/icons/win7/Default%20Programs/notepad_2.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/notepad-16.png",
+      "bytes": 655,
+      "sha256": "e5699e147531ac6bd2de2064a850d68a4662cd71fe8cd8c48117e543dc7cc00a",
+      "upstream": "https://raw.githubusercontent.com/visnalize/resources/main/icons/win7/Default%20Programs/notepad_2.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/notepad-24.png",
+      "bytes": 1439,
+      "sha256": "b286c50f84df5a7ab106e1fee798bf414b63b6b5394789cf0171743e65bdfc46",
+      "upstream": "https://raw.githubusercontent.com/visnalize/resources/main/icons/win7/Default%20Programs/notepad_2.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/notepad-32.png",
+      "bytes": 2218,
+      "sha256": "f70f341aad45a682b245a7123b17a2b15cc3ff25ff92eb7d5965fee1f377c2b0",
+      "upstream": "https://raw.githubusercontent.com/visnalize/resources/main/icons/win7/Default%20Programs/notepad_2.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/notepad-48.png",
+      "bytes": 3932,
+      "sha256": "bec0edaaa7d8594b585a8696706f04adcdf24882a5d7c49143ff7f1b5a791186",
+      "upstream": "https://raw.githubusercontent.com/visnalize/resources/main/icons/win7/Default%20Programs/notepad_2.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/notepad.png",
+      "bytes": 7346,
+      "sha256": "9025c619e0f1dd144dd6fb5379d962b1a603fc7ba381db3be5098276c7ec9281",
+      "upstream": "https://raw.githubusercontent.com/visnalize/resources/main/icons/win7/Default%20Programs/notepad_2.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/paint-128.png",
+      "bytes": 26526,
+      "sha256": "2df0727ab2c6d379dbdf1d7e7250f01040f7dfdd58aeef5ac8d3ed65a31ddefd",
+      "upstream": "https://raw.githubusercontent.com/visnalize/resources/main/icons/win7/Default%20Programs/mspaint_2.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/paint-16.png",
+      "bytes": 770,
+      "sha256": "2553341c57ecb2b46c6d4072acc1869c6a992269e5f69c62dd7abaa44cc72936",
+      "upstream": "https://raw.githubusercontent.com/visnalize/resources/main/icons/win7/Default%20Programs/mspaint_2.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/paint-24.png",
+      "bytes": 1421,
+      "sha256": "cad4aebdcc61c9f673ed48559ed9b7b0e2930f95acc9b5605d163e9cee22fbed",
+      "upstream": "https://raw.githubusercontent.com/visnalize/resources/main/icons/win7/Default%20Programs/mspaint_2.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/paint-32.png",
+      "bytes": 2171,
+      "sha256": "ced094815ae1905dc84eb2dfc5ab77e3fa8479a16404e637cc0b205e193ceb33",
+      "upstream": "https://raw.githubusercontent.com/visnalize/resources/main/icons/win7/Default%20Programs/mspaint_2.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/paint-48.png",
+      "bytes": 4038,
+      "sha256": "72ccf89c1a1f6d1d1761dcf4b5f39a6dd91ad985a990553a119bc7e1718f27ae",
+      "upstream": "https://raw.githubusercontent.com/visnalize/resources/main/icons/win7/Default%20Programs/mspaint_2.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/paint.png",
+      "bytes": 7100,
+      "sha256": "7ae5bff00b10f574225b0a43bc8e8533a122cf2ac8ce034bda75a0013472671e",
+      "upstream": "https://raw.githubusercontent.com/visnalize/resources/main/icons/win7/Default%20Programs/mspaint_2.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/pictures-128.png",
+      "bytes": 20299,
+      "sha256": "70f77aa7a15e1b65c2ceb864b089a5c43c18a682defbe4d983befe7c31fd742f",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON113_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/pictures-16.png",
+      "bytes": 630,
+      "sha256": "53ec27cdac7071ac66ff69f75af7c70ffc9c00e1faba56ab7e3b377a5bb7fb95",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON113_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/pictures-24.png",
+      "bytes": 1631,
+      "sha256": "032bf66c0f8fa0633492263bb971e4a54ae8355b7df2e0c3416859ff884ca133",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON113_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/pictures-32.png",
+      "bytes": 2308,
+      "sha256": "5c0aaa3f33e37704b02de0031748870fb9eda4abf20a0c1d9dbd0374e5f081f1",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON113_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/pictures-48.png",
+      "bytes": 4334,
+      "sha256": "ca08a3ba5dc5f7c5f2e9420fd22f6c950925e4d1becc8873f462d576eb1b71dc",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON113_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/pictures.png",
+      "bytes": 5753,
+      "sha256": "bb6369346559114977abe8a92f3aac1a77aafe9852b3eb608d3b9a4c58515928",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON113_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/printer-128.png",
+      "bytes": 19106,
+      "sha256": "b60f08f572a3cc8b6497b1e9cf6e9adbd6a7292638c34da1ec2cb89e908f18d2",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON26_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/printer-16.png",
+      "bytes": 618,
+      "sha256": "414918be37cb0b5c1d60c0952e975f20998e6c08a724944def4cf2901f7d519a",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON26_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/printer-24.png",
+      "bytes": 1757,
+      "sha256": "c6f736947b83d22a5aa1c40a9b99a65edd0a797c4c5022d87ad657c5114eb162",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON26_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/printer-32.png",
+      "bytes": 2289,
+      "sha256": "dba92bb13df80cbb21ed1be2c3a50ad9532a3982594f0dd62f0d82bbf83f197f",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON26_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/printer-48.png",
+      "bytes": 3981,
+      "sha256": "b344be8051b9d94adeaeb9341710073471581c99e5675b3ae1047d152967e258",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON26_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/printer.png",
+      "bytes": 5146,
+      "sha256": "207e731f8f662d4dd44883b4bb5be24ae17cafbafe3ee2734eff93127985c997",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON26_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/recycle-empty-128.png",
+      "bytes": 22689,
+      "sha256": "38371a90a15a65daaef81920fbde0910506cd59d4faac59227b4b7ad04c343e4",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON55_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/recycle-empty-16.png",
+      "bytes": 700,
+      "sha256": "86396a019c5b23c75a5e57b3912134c8e6acdd04765492ec75a6e7a1ddd32957",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON55_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/recycle-empty-24.png",
+      "bytes": 1397,
+      "sha256": "f0743a93c7781edb1bd259237077668084455229e6c7442aaea4042310f65777",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON55_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/recycle-empty-32.png",
+      "bytes": 2221,
+      "sha256": "45f1a62ce58e87e1bd16c2158544e05e3e4da6bd44b2c046caa5b4823637468a",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON55_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/recycle-empty-48.png",
+      "bytes": 4091,
+      "sha256": "722197e3a31610bfaa36b5b1ba1f451290c750593718164ca5f0dfaa69dee797",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON55_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/recycle-empty.png",
+      "bytes": 7649,
+      "sha256": "edf13f785423efa1ae08cff59e5fdb2227cfbc7df715cb307ceee72333bc064f",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON55_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/recycle-full-128.png",
+      "bytes": 23235,
+      "sha256": "a69817048b49857338d629c721a4a9d47d37438c9e6815eaba1a173837fa21fb",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON54_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/recycle-full-16.png",
+      "bytes": 928,
+      "sha256": "e87fa229fbcb2bf5371044be3f85665c687801070e870606404704c18cb9893f",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON54_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/recycle-full-24.png",
+      "bytes": 1406,
+      "sha256": "04f8efe0972512e8cc6636aec88fd6218ddb77c40aba768d299b5a5aad5f2a35",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON54_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/recycle-full-32.png",
+      "bytes": 2319,
+      "sha256": "7f2c3e2b4c025fd60deb9e6c908ecb69d5824c23d1f84fc546f77cfc2f18e007",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON54_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/recycle-full-48.png",
+      "bytes": 4469,
+      "sha256": "169ade9e7785fe965a428353b277b81c822616d048aa661090de866c5c4b7f62",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON54_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/recycle-full.png",
+      "bytes": 7874,
+      "sha256": "797ece370506af97891b46c6334b57aa835f0dcbc160483b93bada364c1ff861",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON54_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/run-128.png",
+      "bytes": 16653,
+      "sha256": "d5a4a16c470faf7cef8dad8483078962ac3d6a613507093711d8ffa0dd35b8b7",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON25_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/run-16.png",
+      "bytes": 536,
+      "sha256": "ab05d5dd736a9d270827516e995c65297267511f473044eac050afc6369757a3",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON25_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/run-24.png",
+      "bytes": 1275,
+      "sha256": "ad3fab388be95985a32095f172bc427a246ea6830865a4edc875fb9e6eba6ec5",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON25_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/run-32.png",
+      "bytes": 1573,
+      "sha256": "ea82958a21f9a01b58ca1e5c292c9acce93bb786781e1089e15ddd131fecbc25",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON25_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/run-48.png",
+      "bytes": 2846,
+      "sha256": "558a309ce2108ced042739255f678183c64f71b13faa87c7ca268f2379f1cdff",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON25_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/run.png",
+      "bytes": 4109,
+      "sha256": "5aebb1fbf37499d1c4b457cb10ce82e337a3a3f68ed75473cc126f100b881263",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON25_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/search-128.png",
+      "bytes": 18085,
+      "sha256": "835188eed3d03905da33548cb76e7eb6cd3bbb5787f1beec5bb41f14a20e3ce7",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON177_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/search-16.png",
+      "bytes": 685,
+      "sha256": "f3688606b85c5cb6cedfb64bf0ec4dcf5e69b7e24b4942ce48c39f010de0c734",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON177_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/search-24.png",
+      "bytes": 1366,
+      "sha256": "bc9fc1ea125ef3f3bb830297b2654247addb617bc8716871ab2efcc1f4b842b3",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON177_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/search-32.png",
+      "bytes": 1904,
+      "sha256": "613ffc0f730772967d30a0e43775cdd0590e48050f02cbde01f4772017a879fe",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON177_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/search-48.png",
+      "bytes": 3437,
+      "sha256": "45f59a4c0c81ebc469cf420f3070e799d4179d0da1887ab042adac8860c29b31",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON177_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/search.png",
+      "bytes": 4845,
+      "sha256": "a90936ce1b0776ab9af314fabf945a725950c664c3f3e77b36a2cc50ec63a689",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON177_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/security-128.png",
+      "bytes": 16477,
+      "sha256": "f2b726d237dda017504cfd26a23413a1552ceb9d326d9b012a7880a079fd5047",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON78_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/security-16.png",
+      "bytes": 733,
+      "sha256": "f3e850586ef931696c85533cf1be8c0ad28ed7ecc1b92e8c9b69f6f76d0e54a3",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON78_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/security-24.png",
+      "bytes": 1436,
+      "sha256": "d1ccf9ec5275af1e2ad9c367b92a55a0407ea9d1e66bc6361c9258202de1613f",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON78_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/security-32.png",
+      "bytes": 2107,
+      "sha256": "28b5d44907320aa3bcdc4ce9b1decea3254609c49de8df87ea2eb4af1658a101",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON78_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/security-48.png",
+      "bytes": 3960,
+      "sha256": "7230b8043ade7418258b4b3537b457608c77e5e5c2cca63a92534ba24d042e7d",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON78_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/security.png",
+      "bytes": 7382,
+      "sha256": "64687c7999a3687e35a04c4ecce3041708a0ee326c71bda0ca96d36cc0e760fb",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON78_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/sound-128.png",
+      "bytes": 6548,
+      "sha256": "9e7d07837bfe158d45c53be7bf19cc8eb81e31006b06972b1927090ca0eaca67",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON176_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/sound-16.png",
+      "bytes": 212,
+      "sha256": "f3b6b5930d07bbd0ea8ea99582b7d9727584d87de48ce93e28069c0328e1cd32",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON176_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/sound-24.png",
+      "bytes": 672,
+      "sha256": "56d959ccc5e36ead7b108ad95d26a21a219a44708c0e27c20e1ce1417810594b",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON176_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/sound-32.png",
+      "bytes": 647,
+      "sha256": "639455918b9ed85f4cadb850d9ed677768fa9a551e47c68eed1acb8b824a48df",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON176_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/sound-48.png",
+      "bytes": 886,
+      "sha256": "e51dd3f25f01990c654bcf7002646a287e319f66ef595d5e17cab3a49199c323",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON176_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/sound.png",
+      "bytes": 2239,
+      "sha256": "eac49c0cdaa7ebe476604bad1b7d8bc3e33ddd2123a2b807961713e4f0225e65",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON176_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/taskmanager-128.png",
+      "bytes": 22872,
+      "sha256": "2f108301718a6b062cc81cf1689e1a40a88ea00f960d94ba09c9e64e4973a614",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON150_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/taskmanager-16.png",
+      "bytes": 656,
+      "sha256": "6b9bd7817e517b310cbf6b18e01b038b9f64b3ee2b4d6044a2f07153aee109b5",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON150_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/taskmanager-24.png",
+      "bytes": 1468,
+      "sha256": "dbb1f3f4712566015bb335fe945a46a47f795f56da55165fcf26f220f4574ba2",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON150_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/taskmanager-32.png",
+      "bytes": 2300,
+      "sha256": "65c2bffa34be4470f59ea292bb3844427a1fe374be2de2f8fb31caa74c209c7d",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON150_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/taskmanager-48.png",
+      "bytes": 4401,
+      "sha256": "60fc7c9ee19789bd53dedf113f07289c4738e4a7e4cbd8f4942fa49981e72f7d",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON150_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/taskmanager.png",
+      "bytes": 7754,
+      "sha256": "223f0884c45fc275f5dccad84ffcc92c91f34d7c33bf68e12ddf2936a98ed968",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON150_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/text-128.png",
+      "bytes": 4991,
+      "sha256": "17b1a2ed1dd4d080ca232d7cf0ab292515d5311c7dc25840ce04a84f11aa3ec1",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON19_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/text-16.png",
+      "bytes": 330,
+      "sha256": "3212d27ead9bdd84490ad39443abbd84ce5ee4c4d43fb58c32074c0e5c299901",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON19_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/text-24.png",
+      "bytes": 724,
+      "sha256": "3d93a81a4141b604137849b9e88d10d42e43c46b5d56ff478142e2bc57d95db5",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON19_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/text-32.png",
+      "bytes": 633,
+      "sha256": "04b0bdfd5d5eaca68e0bea794dab9f57916c3f98856c46582c2ed892a937208c",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON19_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/text-48.png",
+      "bytes": 737,
+      "sha256": "60328502b2d2243ecc8cbee682b1c3d637875552cec875691c0f7c42e368dad7",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON19_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/text.png",
+      "bytes": 1831,
+      "sha256": "706b9928959e24bdd0e1a93629756996ea0a1ff702fc1ff140b2a2c2bfea3c6e",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON19_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/user-128.png",
+      "bytes": 17203,
+      "sha256": "ba4873cc07ee297960ea300756639cde3589de67c208290d7f149894511fa54e",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON123_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/user-16.png",
+      "bytes": 605,
+      "sha256": "263985a93bd85eb0e18f4c6b58e5e9f4a02c4c6249f8e11d910327ae16103723",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON123_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/user-24.png",
+      "bytes": 1447,
+      "sha256": "a9b4453150796046a838bd889db61c6a92e3378f17101733327c30f43ca46861",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON123_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/user-32.png",
+      "bytes": 2052,
+      "sha256": "3d5eda504cd701c305414b2f93ee8f9b92852df9828c1d6ec08c04a00fe8fb74",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON123_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/user-48.png",
+      "bytes": 3532,
+      "sha256": "f21b118b4b22bea315b916b4285aa64dcbf926a7124599e3da6e9fdd1eb2b4db",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON123_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/user.png",
+      "bytes": 4886,
+      "sha256": "bd0f69b1d1cddd9ec53b945d9061011c6d1ae0283399b4e21e81548dafb4011c",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON123_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/users-128.png",
+      "bytes": 22781,
+      "sha256": "daa67bf77dab2e71c815ea3136317772c3f29a9735403b78646c01275259bb2c",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON88_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/users-16.png",
+      "bytes": 870,
+      "sha256": "28d184560a9da2c5c1d954250acf94f700edafe87da4220c58d5523a089a7c3c",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON88_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/users-24.png",
+      "bytes": 1704,
+      "sha256": "a70563456e4a3002801624b40df0f3b5af3b969348c78fae070a90c5da50c72e",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON88_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/users-32.png",
+      "bytes": 2341,
+      "sha256": "3b550d2e716ddb3b48df162f50da4690bd6dd6cb26ff55917a692e343afb3304",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON88_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/users-48.png",
+      "bytes": 4478,
+      "sha256": "d68166ac535aa43a6c7e93bc7fbfad3a800e2a634b1b35f7a96aad66924b7db2",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON88_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/users.png",
+      "bytes": 7790,
+      "sha256": "04d500f20dc6683d10296d28688e5dae20fea6476abb12dfe274888850156fe2",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON88_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/videos-128.png",
+      "bytes": 25284,
+      "sha256": "f548ff78df7bdab65a76e83f610cfe0634d191c23e1670975a3872801dd4dd6c",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON189_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/videos-16.png",
+      "bytes": 721,
+      "sha256": "356890c95b97ccffdb79e4abdfbb6fe028b8502083a8122184e2c7494ea86503",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON189_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/videos-24.png",
+      "bytes": 1837,
+      "sha256": "0d48375ed77f2875f5ae8b7a387d3625de9accffbbf900471849546b0b9ec7f2",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON189_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/videos-32.png",
+      "bytes": 2628,
+      "sha256": "376b744fddae5f6d611237022773c5a8391f129347912a409d3e23e01d2665d9",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON189_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/videos-48.png",
+      "bytes": 4524,
+      "sha256": "2365e093be8045b465872fc88729731b8376d7833054a81bd920402205a5a1ce",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON189_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/videos.png",
+      "bytes": 8378,
+      "sha256": "55ca1c330a4c9c958892c835aa133b2bdc4982f38bbe9c8af973b81303c2f36d",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/imageres.dll/ICON189_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/warning-128.png",
+      "bytes": 19475,
+      "sha256": "6e965d812ac22ad7835967cff8f2da8510e84888d7d791bf1ccf39a80980d2e0",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON16710_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/warning-16.png",
+      "bytes": 541,
+      "sha256": "2820b0977b6a5b351fae1d77ac7711954b07a3a9705368d862019d6f43a56179",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON16710_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/warning-24.png",
+      "bytes": 1341,
+      "sha256": "f3ac389264b3467776fcc7993b8e706e2b9f805a52a85c0501b542f5295f2967",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON16710_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/warning-32.png",
+      "bytes": 1684,
+      "sha256": "d62d28ba635479b7e5e7b86b50a299528dc47bccbcef95f018fbbb372b6e0ff4",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON16710_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/warning-48.png",
+      "bytes": 3467,
+      "sha256": "67678dbefe0056c5036edb4a157e503611e403712a45d59059a765f0910c18e5",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON16710_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/icons/warning.png",
+      "bytes": 6488,
+      "sha256": "eeb54f28eec30ee411a9d871817233a4ee1752d4e991fac3cfc7b31696f68ae0",
+      "upstream": "https://raw.githubusercontent.com/bartekl1/WindowsResources/main/Icons/Windows%20Vista/ico/shell32.dll/ICON16710_1.ico",
+      "rights": "Microsoft / original rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "Highest-depth ICO frame, resized where required and encoded as PNG."
+    },
+    {
+      "path": "assets/orb.svg",
+      "bytes": 1666,
+      "sha256": "8fe88e36388a37ae0a0b86a55dc78f2110c27d23f1f542807c6ea317a890a39c",
+      "upstream": "Original project source",
+      "rights": "MIT for original SVG source. No trademark rights granted."
+    },
+    {
+      "path": "assets/thumbnails/aurora.webp",
+      "bytes": 3374,
+      "sha256": "a3c7f246211780e7fb107329ee176caf2a4bf2b757dc1c4d9cba0a0cb7dbb345",
+      "upstream": "https://frutigeraeroarchive.org/images/wallpapers/windows_vista/windows_vista_59.jpg",
+      "rights": "Microsoft / original photographers and rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "WebP thumbnail, maximum 320×210."
+    },
+    {
+      "path": "assets/thumbnails/lake.webp",
+      "bytes": 5214,
+      "sha256": "330cfae7d391ae285802ce060caabfd5d13156980403df062234eaa9d109888e",
+      "upstream": "https://frutigeraeroarchive.org/images/wallpapers/windows_vista/windows_vista_6.jpg",
+      "rights": "Microsoft / original photographers and rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "WebP thumbnail, maximum 320×210."
+    },
+    {
+      "path": "assets/thumbnails/landscape.webp",
+      "bytes": 18844,
+      "sha256": "29e85ad5336128da20da698cc5db03c46285bb2048671729760fd5e725d40039",
+      "upstream": "https://frutigeraeroarchive.org/images/wallpapers/windows_vista/windows_vista_3.jpg",
+      "rights": "Microsoft / original photographers and rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "WebP thumbnail, maximum 320×210."
+    },
+    {
+      "path": "assets/thumbnails/leaf.webp",
+      "bytes": 3432,
+      "sha256": "0f7eb9d1550607a5aabdf5cc2165f5fec0b296fb4ba02081c8a83da0856a386a",
+      "upstream": "https://frutigeraeroarchive.org/images/wallpapers/windows_vista/windows_vista_25.jpg",
+      "rights": "Microsoft / original photographers and rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "WebP thumbnail, maximum 320×210."
+    },
+    {
+      "path": "assets/thumbnails/mountain.webp",
+      "bytes": 11388,
+      "sha256": "4c9855c7f65896e264760c280a53663a3256253254824c6b899fd23623ace6bf",
+      "upstream": "https://frutigeraeroarchive.org/images/wallpapers/windows_vista/windows_vista_60.jpg",
+      "rights": "Microsoft / original photographers and rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "WebP thumbnail, maximum 320×210."
+    },
+    {
+      "path": "assets/thumbnails/night.webp",
+      "bytes": 2574,
+      "sha256": "5fbeeda9d702633eea7405a2afdd75778c30b6fc3bdc75121536258f541ac33d",
+      "upstream": "https://frutigeraeroarchive.org/images/wallpapers/windows_vista/windows_vista_49.jpg",
+      "rights": "Microsoft / original photographers and rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "WebP thumbnail, maximum 320×210."
+    },
+    {
+      "path": "assets/wallpapers/aurora.webp",
+      "bytes": 86222,
+      "sha256": "d651efe48be69b002d898d8395104bb929a2facd653fb6d9c4dd6cf28e5a352c",
+      "upstream": "https://frutigeraeroarchive.org/images/wallpapers/windows_vista/windows_vista_59.jpg",
+      "rights": "Microsoft / original photographers and rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "WebP conversion."
+    },
+    {
+      "path": "assets/wallpapers/lake.webp",
+      "bytes": 77508,
+      "sha256": "424381ee9d17aa11939f3650f92cce9cd3b7e0e4f54cb909c956fe119b0fdcc2",
+      "upstream": "https://frutigeraeroarchive.org/images/wallpapers/windows_vista/windows_vista_6.jpg",
+      "rights": "Microsoft / original photographers and rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "WebP conversion."
+    },
+    {
+      "path": "assets/wallpapers/landscape.webp",
+      "bytes": 345456,
+      "sha256": "520b549759fc772a85affccba08d2a089c82cb31f4752e53ff350bbfb0d67551",
+      "upstream": "https://frutigeraeroarchive.org/images/wallpapers/windows_vista/windows_vista_3.jpg",
+      "rights": "Microsoft / original photographers and rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "WebP conversion."
+    },
+    {
+      "path": "assets/wallpapers/leaf.webp",
+      "bytes": 224554,
+      "sha256": "26d1e3ccf6dfeec7ec77991a0a35493ed5148e3a4a64f7bd66628ad135977ddf",
+      "upstream": "https://frutigeraeroarchive.org/images/wallpapers/windows_vista/windows_vista_25.jpg",
+      "rights": "Microsoft / original photographers and rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "WebP conversion."
+    },
+    {
+      "path": "assets/wallpapers/mountain.webp",
+      "bytes": 251586,
+      "sha256": "68da75ed649c21c410ce9b7706d40e383d55f20f4af08f54551048511d47b5ea",
+      "upstream": "https://frutigeraeroarchive.org/images/wallpapers/windows_vista/windows_vista_60.jpg",
+      "rights": "Microsoft / original photographers and rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "WebP conversion."
+    },
+    {
+      "path": "assets/wallpapers/night.webp",
+      "bytes": 166350,
+      "sha256": "e5908af3d161fcd7c2e05bc52791a25b6e676de9d3f618f56d7add174cd9f754",
+      "upstream": "https://frutigeraeroarchive.org/images/wallpapers/windows_vista/windows_vista_49.jpg",
+      "rights": "Microsoft / original photographers and rights holders; not MIT. Redistribution permission not established.",
+      "transformation": "WebP conversion."
+    }
+  ]
+}

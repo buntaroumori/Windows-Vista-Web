@@ -1,0 +1,14 @@
+{
+  "result": {
+    "measuredAt": "2026-10-16T17:05:36.808Z",
+    "javascriptGzipBytes": 50092,
+    "cssGzipBytes": 17924,
+    "totalStaticBytes": 2725412,
+    "files": 249
+  },
+  "limits": {
+    "javascriptGzipBytes": 55000,
+    "cssGzipBytes": 25000,
+    "totalStaticBytes": 3500000
+  }
+}
